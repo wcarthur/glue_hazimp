@@ -1,3 +1,5 @@
 An example of connecting TCRM and HazImp.
 
+TCRM is currently not working with the .ini file.
+
 An exposure data directory and TCRM need to be at the same level as this directory. For this example the exposure data is called 'QLD_Residential_Wind_Exposure_201212_for_TCRM.CSV'

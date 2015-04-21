@@ -14,7 +14,7 @@ from core_hazimp import hazimp
 # Run TCRM
 ini_file = os.path.abspath("port_hedland.ini")
 print "ini_file", ini_file
-call(["python", "../../tcrm/tcrm.py", ini_file])
+#call(["python", "../../tcrm/tcrm.py -c ", ini_file])
 
 # Convert the .nc gust files to ...
 ncpath = os.path.join('output', 'port_hedland', 'windfield')
